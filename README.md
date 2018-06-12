@@ -1,0 +1,2 @@
+# dividers
+finds numbers' dividers
